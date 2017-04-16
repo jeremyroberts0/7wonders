@@ -1,0 +1,28 @@
+{
+  "name": "7wonders",
+  "version": "1.0.0",
+  "description": "7 Wonders as a web game!",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeremyroberts0/7wonders.git"
+  },
+  "keywords": [
+    "7wonders",
+    "react",
+    "node",
+    "express"
+  ],
+  "author": "jeremy roberts, nikhil mohan, jason chu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremyroberts0/7wonders/issues"
+  },
+  "homepage": "https://github.com/jeremyroberts0/7wonders",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
